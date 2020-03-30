@@ -1,0 +1,62 @@
+.blocvert {
+  float:left;
+  width: 80%;
+  height: 40px;
+  background-color: #2dcc70;
+ }
+
+.blocbleu {
+  float:left;
+  width: 20%;
+  height: 40px;
+  background-color: #277fb8;
+ }
+
+.blocrouge {
+  float:left;
+  width: 35%;
+  height: 150px;
+  background-color: #e84c3d;
+ }
+
+.blocorange {
+  float:left;
+  width: 32.5%;
+  height: 75px;
+  background-color: #e67f22;
+ }
+
+.blocgrisclair {
+  float:left;
+  width: 32.5%;
+  height: 75px;
+  background-color: #95a5a5;
+ }
+
+.blocorangeclair {
+  float:left;
+  width: 21.6%;
+  height: 75px;
+  background-color: #f39c11;
+ }
+
+.blocturquoise {
+  float:left;
+  width: 21.7%;
+  height: 75px;
+  background-color: #16a086;
+ }
+
+.blocorangefonce {
+  float:left;
+  width: 21.7%;
+  height: 75px;
+  background-color: #d25400;
+ }
+
+.blocgrisfonce {
+  float:left;
+  width: 100%;
+  height: 200px;
+  background-color: #2d3e50;
+ }
