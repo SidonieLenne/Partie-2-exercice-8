@@ -1,61 +1,60 @@
-.blocvert {
+body>div{
   float:left;
+}
+/*Ligne 1*/
+/*vert*/
+#block1line1 {
   width: 80%;
   height: 40px;
   background-color: #2dcc70;
  }
-
-.blocbleu {
-  float:left;
+/*bleu*/
+#block2line1 {
   width: 20%;
   height: 40px;
   background-color: #277fb8;
  }
-
-.blocrouge {
-  float:left;
+/*Ligne 2*/
+/*rouge*/
+#block1line2and3 {
   width: 35%;
   height: 150px;
   background-color: #e84c3d;
  }
-
-.blocorange {
-  float:left;
+/*orange*/
+#block2line2 {
   width: 32.5%;
   height: 75px;
   background-color: #e67f22;
  }
-
-.blocgrisclair {
-  float:left;
+/*gris*/
+#block3line2 {
   width: 32.5%;
   height: 75px;
   background-color: #95a5a5;
  }
-
-.blocorangeclair {
-  float:left;
+/*Ligne 3*/
+/*orange clair*/
+#block2line3 {
   width: 21.6%;
   height: 75px;
   background-color: #f39c11;
  }
-
-.blocturquoise {
-  float:left;
+/*turquoise*/
+#block3line3 {
   width: 21.7%;
   height: 75px;
   background-color: #16a086;
  }
-
-.blocorangefonce {
-  float:left;
+/*orange foncé*/
+#block4line3 {
   width: 21.7%;
   height: 75px;
   background-color: #d25400;
  }
-
-.blocgrisfonce {
-  float:left;
+/*Ligne 4*/
+/*gris foncé*/
+#block1line4 {
   width: 100%;
   height: 200px;
   background-color: #2d3e50;
